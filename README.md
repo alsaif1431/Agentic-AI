@@ -12,16 +12,18 @@
 
 1. **Clone the Repository:**
 
-``` bash
-   git clone https://github.com/saifpashaTrigent/CrewAI.git
+```bash
+   git clone https://github.com/Your-username/CrewAI.git
    cd CrewAI
 ```
 
 ## Usage
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 
 pip install -r requirements.txt
 
 ## Run
+
 python app.py
