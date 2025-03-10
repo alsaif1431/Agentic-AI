@@ -13,7 +13,7 @@
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/Your-username/CrewAI.git
+   git@github.com:alsaif1431/Agentic-AI.git
    cd CrewAI
 ```
 
