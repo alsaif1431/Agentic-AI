@@ -10,7 +10,6 @@
 ## Installation
 
 1. **Clone the Repository:**
-
 ```bash
    git@github.com:alsaif1431/Agentic-AI.git
    cd CrewAI
