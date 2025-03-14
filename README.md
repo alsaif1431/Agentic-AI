@@ -25,5 +25,4 @@ source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 pip install -r requirements.txt
 
 ## Run
-
 python app.py
