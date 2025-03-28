@@ -62,7 +62,7 @@ elif inputAgent == "💲 Financial Advisor Agent":
 elif inputAgent == "🕵 Investigation Journalist Agent":
     selectedAgent = InvestigativeJournalist
 else:
-    st.warning("Please select an agent")
+    st.warning("Please select an agent") 
 
 task1 = Task(
     description=st.text_input(
