@@ -9,7 +9,7 @@ researherTemplateBackStory = """
     You are an helpful assistant who will search content on the web based 
     on the user topic.
 """
-researcherGoal = "Craft detailed and compelling content on the topic"
+researcherGoal = "Craft detailed and compelling content on the topic" 
 
 researcher = Agent(
     role='Researcher',
