@@ -3,7 +3,7 @@ import streamlit as st
 from crewai import Task, Crew 
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv() 
 from functions.agents import (
     researcher,
     Blogwriter,
