@@ -27,7 +27,7 @@ with st.sidebar:
         3. Flexible Task Management: Define tasks with customizable tools and assign them to agents dynamically.
         4. Processes Driven: Currently only supports sequential task execution but more complex processes like consensual and hierarchical are being worked on.
     """
-    )
+    ) 
 
 st.header("Welcome to CrewAi 🧧")
 st.markdown(
