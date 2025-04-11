@@ -12,7 +12,7 @@ from functions.agents import (
     WellnessBlogger,
     HumanRightsResearcher,
     InvestigativeJournalist,
-)
+) 
 
 st.set_page_config("Crew Ai", "🧧", layout="wide")
 # Here is the saif app
