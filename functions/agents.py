@@ -42,7 +42,7 @@ FinancialAdvisor = Agent(
     allow_delegation=True,
     llm=ChatOpenAI(model="gpt-4-1106-preview", temperature=0.5),
     tools=[search_tools]
-) 
+)  
 
 RealEstateAnalyst = Agent(
     role='Analyst',
