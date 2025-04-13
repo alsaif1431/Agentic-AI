@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain.chat_models import ChatOpenAI 
 from langchain.tools import DuckDuckGoSearchResults
 
-search_tools = DuckDuckGoSearchResults()   
+search_tools = DuckDuckGoSearchResults() 
 
 # Define Agents
 researherTemplateBackStory = """
