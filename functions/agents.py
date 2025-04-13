@@ -19,7 +19,7 @@ researcher = Agent(
     allow_delegation=True,
     llm=ChatOpenAI(model="gpt-4-1106-preview", temperature=0.7),
     tools=[search_tools]
-)
+) 
 
 Blogwriter = Agent(
     role='Writer',
