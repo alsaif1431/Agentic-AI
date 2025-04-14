@@ -5,7 +5,7 @@ from langchain.tools import DuckDuckGoSearchResults
 search_tools = DuckDuckGoSearchResults()
 
 # Define Agents
-researherTemplateBackStory = """
+researherTemplateBackStory = """ 
     You are an helpful assistant who will search content on the web based 
     on the user topic.
 """
